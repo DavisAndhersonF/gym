@@ -15,7 +15,7 @@ class MountainCarEnv(gym.Env):
     """
     Description:
          A car which is the agent is started at the bottom of a valley for any given state te agent can choose to
-         move left or right or donnt move at all
+         move left or right or don't move at all
         
     Source:
          The environment appeared first in Andrew Moore's PhD Thesis (1990).
